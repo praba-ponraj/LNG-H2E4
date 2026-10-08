@@ -1,0 +1,11 @@
+TM-align: 20220412 (confirmed in frozen alignment output)
+PyMOL: 3.1.0
+mkdssp: 4.6.1
+Biotite: 1.7.1
+NumPy: 2.5.1
+Foldseek: 10.941cd33 (currently installed; search-time version not separately logged)
+
+Database snapshots:
+CATH50: v4.3.0
+AFDB Swiss-Prot: v6, 2025_03
+PDB100: PDB_DATE 250101
