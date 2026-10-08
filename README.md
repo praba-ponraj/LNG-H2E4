@@ -1,5 +1,7 @@
 # Structural convergence of LNG and SCUBA designs on a natural H2E4 topology
 
+**Archived release (v1.0.0):** [Zenodo DOI: 10.5281/zenodo.23245114](https://doi.org/10.5281/zenodo.23245114)
+
 Analysis supporting a Protein Science Research Note comparing
 the RFdiffusion-derived α-cobratoxin binder LNG with the
 SCUBA architecture-directed designs XM2H and AM2M, and the
