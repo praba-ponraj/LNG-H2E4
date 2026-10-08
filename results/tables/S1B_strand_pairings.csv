@@ -1,0 +1,16 @@
+Protein,Strand pair,Sense,CA contacts <5.5 A,Minimum CA distance (A),Axis cosine
+LNG,E1-E4,antiparallel,5,4.5,-1.00
+LNG,E2-E3,antiparallel,8,4.2,-0.92
+LNG,E2-E4,antiparallel,6,4.0,-0.95
+XM2H,E1-E4,antiparallel,9,4.2,-0.96
+XM2H,E2-E3,antiparallel,8,4.3,-0.97
+XM2H,E2-E4,antiparallel,7,4.6,-0.95
+AM2M,E1-E4,antiparallel,8,4.2,-0.97
+AM2M,E2-E3,antiparallel,11,4.2,-0.93
+AM2M,E2-E4,antiparallel,8,4.3,-0.93
+Pol IV LF,E1-E4,antiparallel,10,3.8,-0.97
+Pol IV LF,E2-E3,antiparallel,7,3.8,-0.96
+Pol IV LF,E2-E4,antiparallel,11,4.1,-0.95
+Dbh LF,E1-E4,antiparallel,11,3.6,-0.96
+Dbh LF,E2-E3,antiparallel,8,3.8,-0.96
+Dbh LF,E2-E4,antiparallel,9,4.4,-0.93

@@ -1,0 +1,17 @@
+query	target	aligned_len	rmsd	seq_id	qTM	tTM
+9bk5A.pdb	1k1s_LF.pdb	70	3.93	0.100	0.47587	0.40453
+9bk5A.pdb	4r8u_LF.pdb	72	3.70	0.083	0.50943	0.41512
+am2m.pdb	1k1s_LF.pdb	86	2.86	0.093	0.66830	0.60903
+am2m.pdb	1k1s.pdb	86	2.86	0.093	0.66830	0.21984
+am2m.pdb	4r8u_LF.pdb	83	2.50	0.108	0.65983	0.57284
+am2m.pdb	4r8u.pdb	83	2.50	0.108	0.65983	0.21734
+am2m.pdb	9bk5A.pdb	74	3.14	0.122	0.52447	0.57528
+9bk5A.pdb	1k1s.pdb	71	3.82	0.014	0.49196	0.16448
+9bk5A.pdb	4r8u.pdb	72	3.70	0.083	0.50943	0.17111
+9bk5A.pdb	xm2h.pdb	76	2.85	0.092	0.63268	0.57935
+xm2h.pdb	1k1s_LF.pdb	88	2.65	0.114	0.68679	0.62307
+xm2h.pdb	1k1s.pdb	88	2.65	0.114	0.68679	0.22707
+xm2h.pdb	4r8u_LF.pdb	86	2.91	0.093	0.62888	0.54760
+xm2h.pdb	4r8u.pdb	86	2.91	0.093	0.62888	0.21672
+xm2h.pdb	am2m.pdb	87	1.81	0.402	0.79973	0.79248
+4r8u_LF.pdb	1k1s_LF.pdb	95	1.91	0.116	0.73745	0.78011

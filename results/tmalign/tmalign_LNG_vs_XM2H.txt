@@ -1,0 +1,23 @@
+
+ *********************************************************************
+ * TM-align (Version 20220412): protein structure alignment          *
+ * References: Y Zhang, J Skolnick. Nucl Acids Res 33, 2302-9 (2005) *
+ * Please email comments and suggestions to zhanglab@zhanggroup.org   *
+ *********************************************************************
+
+Name of Chain_1: 9bk5A.pdb (to be superimposed onto Chain_2)
+Name of Chain_2: xm2h.pdb
+Length of Chain_1: 78 residues
+Length of Chain_2: 89 residues
+
+Aligned length= 76, RMSD=   2.85, Seq_ID=n_identical/n_aligned= 0.092
+TM-score= 0.63268 (if normalized by length of Chain_1, i.e., LN=78, d0=3.13)
+TM-score= 0.57935 (if normalized by length of Chain_2, i.e., LN=89, d0=3.41)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d <  5.0 Angstrom, "." denotes other aligned residues)
+-GRIVVRG------DV-AIAEAVVRKVGEVAGKEVILLISYRKNGEWITYQRN-LEATPEDVERTIAVIREIYEESG----GDFILAIFSD
+ :::::::      .: ::::::::::::.::::::::::::  ..::::::: .::::::::::::::::::::::    .:::::::::
+MHSWSATVDSRSEEAVRAAARRLAERLLAAGISGKIKIEVEA--NGIKYEYEVEGPATEEVAKKIVEYAVAAALRAIAAGATSVTITVGLE
+
+Total CPU time is  0.01 seconds

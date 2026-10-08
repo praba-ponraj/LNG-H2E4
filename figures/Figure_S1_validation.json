@@ -1,0 +1,19 @@
+{
+  "sequence_lengths": {
+    "LNG": 78,
+    "XM2H": 89,
+    "AM2M": 90,
+    "Pol IV LF": 109,
+    "Dbh LF": 102
+  },
+  "alignment_columns": 127,
+  "validated_against_PDB": true,
+  "reference": "Pol IV LF",
+  "pair_files": {
+    "LNG": "tmalign_9bk5A_vs_4r8u_LF.txt",
+    "XM2H": "tmalign_xm2h_vs_4r8u_LF.txt",
+    "AM2M": "tmalign_am2m_vs_4r8u_LF.txt",
+    "Dbh LF": "tmalign_4r8u_LF_vs_1k1s_LF.txt"
+  },
+  "insertion_policy": "Left-justified within each reference gap slot; insertion residues across rows are not structurally aligned."
+}

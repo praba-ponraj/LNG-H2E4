@@ -1,0 +1,132 @@
+
+==================================================================
+LNG  (8-85, 78 residues)
+==================================================================
+topology        : E1-H1-E2-E3-H2-E4
+composition     : 2 helices, 4 strands -> H2E4
+
+elements:
+  E1      9-13    (5 res)
+  H1     16-28    (13 res)
+  E2     34-42    (9 res)
+  E3     45-53    (9 res)
+  H2     57-74    (18 res)
+  E4     78-83    (6 res)
+
+DSSP string:
+     8  CEEEEESCHHHHHHHHHHHHHSCSSCEEEEEEEEETTEEEEEEEEECSSHHHHHHHHHHH
+    68  HHHHHHHTTCEEEEEECC
+
+sheet pairing:
+  E1 - E4  antiparallel  (5 contacts, closest 4.5 A, cos=-1.00)
+  E2 - E3  antiparallel  (8 contacts, closest 4.2 A, cos=-0.92)
+  E2 - E4  antiparallel  (6 contacts, closest 4.0 A, cos=-0.95)
+
+strand order in sheet : E1 - E4 - E2 - E3
+sense along sheet     : A A A  (all antiparallel)
+
+==================================================================
+XM2H  (1-89, 89 residues)
+==================================================================
+topology        : E1-H1-E2-E3-H2-E4
+composition     : 2 helices, 4 strands -> H2E4
+
+elements:
+  E1      2-8     (7 res)
+  H1     13-30    (18 res)
+  E2     36-42    (7 res)
+  E3     45-51    (7 res)
+  H2     57-76    (20 res)
+  E4     82-88    (7 res)
+
+DSSP string:
+     1  CEEEEEEECSCCHHHHHHHHHHHHHHHHHHTCCSCEEEEEEETTEEEEEEECSCCCHHHH
+    61  HHHHHHHHHHHHHHHHTTCSCEEEEEEEC
+
+sheet pairing:
+  E1 - E4  antiparallel  (9 contacts, closest 4.2 A, cos=-0.96)
+  E2 - E3  antiparallel  (8 contacts, closest 4.3 A, cos=-0.97)
+  E2 - E4  antiparallel  (7 contacts, closest 4.6 A, cos=-0.95)
+
+strand order in sheet : E1 - E4 - E2 - E3
+sense along sheet     : A A A  (all antiparallel)
+
+==================================================================
+AM2M  (1-90, 90 residues)
+==================================================================
+topology        : E1-H1-E2-E3-H2-E4
+composition     : 2 helices, 4 strands -> H2E4
+
+elements:
+  E1      2-7     (6 res)
+  H1     13-28    (16 res)
+  E2     34-42    (9 res)
+  E3     45-53    (9 res)
+  H2     57-77    (21 res)
+  E4     84-89    (6 res)
+
+DSSP string:
+     1  CEEEEEECTTCCHHHHHHHHHHHHHHHHTTTCCEEEEEEEEETTEEEEEEEEECSSHHHH
+    61  HHHHHHHHHHHHHHHHHTTTCSCEEEEEEC
+
+sheet pairing:
+  E1 - E4  antiparallel  (8 contacts, closest 4.2 A, cos=-0.97)
+  E2 - E3  antiparallel  (11 contacts, closest 4.2 A, cos=-0.93)
+  E2 - E4  antiparallel  (8 contacts, closest 4.3 A, cos=-0.93)
+
+strand order in sheet : E1 - E4 - E2 - E3
+sense along sheet     : A A A  (all antiparallel)
+
+==================================================================
+PolIV_LF  (233-341, 109 residues)
+==================================================================
+topology        : E1-H1-E2-E3-H2-E4
+composition     : 2 helices, 4 strands -> H2E4
+
+elements:
+  E1    243-254   (12 res)
+  H1    257-278   (22 res)
+  E2    286-293   (8 res)
+  E3    298-304   (7 res)
+  H2    310-324   (15 res)
+  E4    330-338   (9 res)
+
+DSSP string:
+   233  CCCCSCCCCCEEEEEEEEEEEECSHHHHHHHHHHHHHHHHHHHHHHCTTCBCSEEEEEEE
+   293  ETTCCEEEEEEECSBCCHHHHHHHHHHHHHHHCTTCCEEEEEEEEECCC
+
+sheet pairing:
+  E1 - E4  antiparallel  (10 contacts, closest 3.8 A, cos=-0.97)
+  E2 - E3  antiparallel  (7 contacts, closest 3.8 A, cos=-0.96)
+  E2 - E4  antiparallel  (11 contacts, closest 4.1 A, cos=-0.95)
+
+strand order in sheet : E1 - E4 - E2 - E3
+sense along sheet     : A A A  (all antiparallel)
+DSSP omitted residues (assigned C for segmentation): [('A', 35, '')]
+
+==================================================================
+Dbh_LF  (240-341, 102 residues)
+==================================================================
+topology        : E1-H1-E2-E3-H2-E4
+composition     : 2 helices, 4 strands -> H2E4
+
+elements:
+  E1    246-256   (11 res)
+  H1    259-275   (17 res)
+  E2    283-290   (8 res)
+  E3    294-301   (8 res)
+  H2    308-323   (16 res)
+  E4    331-339   (9 res)
+
+DSSP string:
+   240  SEECCCEEEEEEEEEEECCHHHHHHHHHHHHHHHHHTCSSBCSEEEEEEEETTTEEEEEE
+   300  EECSSCCCHHHHHHHHHHHHHHHHTTCCSCCEEEEEEEEECE
+
+sheet pairing:
+  E1 - E4  antiparallel  (11 contacts, closest 3.6 A, cos=-0.96)
+  E2 - E3  antiparallel  (8 contacts, closest 3.8 A, cos=-0.96)
+  E2 - E4  antiparallel  (9 contacts, closest 4.4 A, cos=-0.93)
+
+strand order in sheet : E1 - E4 - E2 - E3
+sense along sheet     : A A A  (all antiparallel)
+
