@@ -1,0 +1,4 @@
+Database,Target identifier,Returned rows,Rank by descending qTM,qTM,tTM,Probability,Source TSV,Original TSV row
+PDB100,4r8u-assembly2_B,4911,197,0.4145,0.1491,0.887,9bk5A_pdb.tsv,9
+PDB100,1k1s-assembly1_A,4911,590,0.3437,0.1284,0.150,9bk5A_pdb.tsv,255
+CATH50,af_Q9VNX1_325_451_3.30.1490.100,580,5,0.5385,0.3771,0.996,9bk5A_cath.tsv,1

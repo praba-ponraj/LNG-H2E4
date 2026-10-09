@@ -1,0 +1,5 @@
+Query,Returned rows,Rows qTM >=0.5,Rows qTM >=0.6,Maximum qTM,Unique accessions qTM >=0.5,Shared with control qTM >=0.6,Source TSV
+Pol IV LF,779,268,268,0.9965,258,258,4r8u_LF_afdbsp.tsv
+XM2H,571,175,4,0.6991,172,148,xm2h_afdbsp.tsv
+AM2M,272,48,2,0.6068,47,46,am2m_afdbsp.tsv
+LNG,690,7,0,0.5372,7,3,9bk5A_afdbsp.tsv

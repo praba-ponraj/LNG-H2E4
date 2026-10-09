@@ -26,4 +26,4 @@ Requires Python 3 and matplotlib. The script uses the supplied coordinate files,
 
 The four pairwise alignments share Pol IV LF as their reference. Insertion slots are padded and left-aligned for display only; this is not an evolutionary multiple-sequence alignment. Pairwise identities must be taken from the frozen TM-align results, not recomputed from this display. Original residue numbering is retained. The secondary-structure bars use the corrected DSSP boundaries, including Dbh E1 at residues 246–256.
 
-This is a figure-specific addition; repository-wide documentation, licensing, author metadata and database provenance still need to be completed before release.
+Repository documentation, licensing and database provenance are provided in the main README, LICENSE files and results/foldseek/README.md.

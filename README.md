@@ -85,5 +85,11 @@ parameters, database versions and visualization procedures.
 
 ## Citation and archive
 
-Citation metadata, licensing and the release-specific Zenodo
-DOI will be finalized before the archived release.
+
+
+## Complete supporting information
+
+- Table S3: CATH counts, Swiss-Prot retrieval, selected search ranks and LNG accessions.
+- supplementary/LNG_H2E4_Supporting_Information.pdf: Figure S1 and Tables S1A, S1B, S2 and S3 with legends.
+
+Regenerate Table S3 with `python scripts/make_s3.py`.

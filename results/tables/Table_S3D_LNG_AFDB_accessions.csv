@@ -1,0 +1,8 @@
+UniProt accession,Target identifier,qTM,Probability,Shared with control qTM >=0.6,Source TSV,Original TSV row
+Q7USY7,AF-Q7USY7-F1-model_v6,0.5084,0.975,Yes,9bk5A_afdbsp.tsv,3
+Q93RN4,AF-Q93RN4-F1-model_v6,0.5308,0.855,No,9bk5A_afdbsp.tsv,19
+Q3ZWB2,AF-Q3ZWB2-F1-model_v6,0.5372,0.855,Yes,9bk5A_afdbsp.tsv,23
+Q9JWJ7,AF-Q9JWJ7-F1-model_v6,0.5093,0.817,No,9bk5A_afdbsp.tsv,28
+A5FSS1,AF-A5FSS1-F1-model_v6,0.5142,0.772,Yes,9bk5A_afdbsp.tsv,52
+P27475,AF-P27475-F1-model_v6,0.5103,0.601,No,9bk5A_afdbsp.tsv,108
+P21636,AF-P21636-F1-model_v6,0.5179,0.301,No,9bk5A_afdbsp.tsv,218

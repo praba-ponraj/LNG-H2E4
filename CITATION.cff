@@ -3,6 +3,12 @@ message: "Please cite the archived Zenodo release when using these materials."
 title: "Structural convergence of LNG and SCUBA designs on a natural H2E4 topology"
 type: dataset
 authors:
+  - family-names: "Prabakaran"
+    given-names: "Jeshuwin"
+    affiliation: "University of Maryland, Baltimore County"
+  - family-names: "Prabakaran"
+    given-names: "Joel"
+    affiliation: "University of Maryland, Baltimore County"
   - family-names: "Ponraj"
     given-names: "Prabakaran"
     affiliation: "Independent researcher"
@@ -14,5 +20,3 @@ keywords:
   - SCUBA
   - H2E4 topology
 
-version: "1.0.0"
-doi: "10.5281/zenodo.23245114"

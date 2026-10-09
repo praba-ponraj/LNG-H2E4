@@ -1,0 +1,11 @@
+Query,CATH superfamily,Hits qTM >=0.5,Total qualifying hits,Source TSV
+LNG,3.30.950.10,6,9,9bk5A_cath.tsv
+LNG,3.30.1490.100,2,9,9bk5A_cath.tsv
+LNG,3.30.70.600,1,9,9bk5A_cath.tsv
+XM2H,3.30.1490.100,21,24,xm2h_cath.tsv
+XM2H,3.90.70.120,1,24,xm2h_cath.tsv
+XM2H,3.30.470.20,1,24,xm2h_cath.tsv
+XM2H,3.60.20.10,1,24,xm2h_cath.tsv
+AM2M,3.30.1490.100,14,14,am2m_cath.tsv
+Pol IV LF,3.30.1490.100,37,37,4r8u_LF_cath.tsv
+Dbh LF,3.30.1490.100,35,35,1k1s_LF_cath.tsv
