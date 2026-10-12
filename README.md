@@ -90,6 +90,6 @@ parameters, database versions and visualization procedures.
 ## Complete supporting information
 
 - Table S3: CATH counts, Swiss-Prot retrieval, selected search ranks and LNG accessions.
-- supplementary/LNG_H2E4_Supporting_Information.pdf: Figure S1 and Tables S1A, S1B, S2 and S3 with legends.
+- supplementary/Prabakaran_Supplementary_Material.pdf: Figure S1 and Tables S1A, S1B, S2 and S3 with legends.
 
 Regenerate Table S3 with `python scripts/make_s3.py`.
