@@ -2,10 +2,9 @@
 
 **Archived release (v1.1.2):** [Zenodo DOI: 10.5281/zenodo.23270724](https://doi.org/10.5281/zenodo.23270724)
 
-Analysis supporting a Protein Science Research Note comparing
-the RFdiffusion-derived α-cobratoxin binder LNG with the
-SCUBA architecture-directed designs XM2H and AM2M, and the
-natural little-finger domains of Pol IV and Dbh.
+Structural bioinformatics analysis comparing the RFdiffusion-derived
+α-cobratoxin binder LNG with the architecture-directed SCUBA designs
+XM2H and AM2M, and the natural little-finger domains of Pol IV and Dbh.
 
 All five experimental structures share the principal element
 order E1–H1–E2–E3–H2–E4 and an antiparallel sheet with spatial
