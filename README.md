@@ -1,4 +1,4 @@
-# Two de novo design routes, one natural topology: Convergence of SCUBA designs and an RFdiffusion-derived binder
+# SCUBA designs and an RFdiffusion-derived binder share the Y-family DNA polymerase little-finger topology
 
 **Archived release (v1.1.2):** [Zenodo DOI: 10.5281/zenodo.23270724](https://doi.org/10.5281/zenodo.23270724)
 
