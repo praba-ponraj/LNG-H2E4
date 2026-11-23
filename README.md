@@ -1,4 +1,4 @@
-# SCUBA designs and an RFdiffusion-derived binder share the Y-family DNA polymerase little-finger topology
+# Distinct de novo design approaches converge on a natural protein topology while diverging in geometry and molecular recognition
 
 **Archived release (v1.1.2):** [Zenodo DOI: 10.5281/zenodo.23270724](https://doi.org/10.5281/zenodo.23270724)
 
